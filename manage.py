@@ -2,6 +2,7 @@
 import os
 import sys
 
+# checking if I can push
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "conduit.settings")
     try:
